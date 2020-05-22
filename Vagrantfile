@@ -1,7 +1,7 @@
 
 # Configure 
 
-PRIVATE_IP = "172.20.30.10"
+PRIVATE_IP = "172.20.20.10"
 MEMORY = 4096
 CPUS = 2
 NAME = "NomadAndMore"
